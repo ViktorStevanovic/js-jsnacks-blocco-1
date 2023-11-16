@@ -4,8 +4,8 @@
 const firstWord = prompt('Inserisci la prima parola')
 const secondWord = prompt('Inserisci la seconda parola')
 
-firstWordLength = firstWord.length
-secondWordLength = secondWord.length
+const firstWordLength = firstWord.length
+const secondWordLength = secondWord.length
 
 console.log(firstWordLength)
 console.log(secondWordLength)
